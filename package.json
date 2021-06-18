@@ -1,5 +1,5 @@
 {
-  "name": "wtfismyip",
+  "name": "wtfismyip-cli",
   "version": "1.0.0",
   "description": "",
   "main": "wtfismyip.js",
