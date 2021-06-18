@@ -1,0 +1,14 @@
+{
+  "name": "wtfismyip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wtfismyip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "wtfismyip": "./cli.js"
+  }
+}
